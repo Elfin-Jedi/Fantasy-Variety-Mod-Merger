@@ -5,10 +5,10 @@ Install Instructions:
 
 Data Edits:
 
-Backup vanilla b_detail_plan_default, material_template_default, inorganic_stone_gem , & language_SYM.
+Backup vanilla b_detail_plan_default, material_template_default, & language_SYM.
 
 Replace b_detail_plan_default in data/vanilla/vanilla_bodies, with provided file in New Install Data Replacements/Vanilla Bodies.
-Replace material_template_default & inorganic_stone_gem in data/vanilla/vanilla_materials, with provided files in New Install Data Replacements/Vanilla Materials.
+Replace material_template_default in data/vanilla/vanilla_materials, with provided file in New Install Data Replacements/Vanilla Materials.
 Replace language_SYM in data/vanilla/vanilla_languages, with provided file in New Install Data Replacements/Vanilla Languages.
 Throw away New Install Data Replacements folder or move it elsewhere.
 
