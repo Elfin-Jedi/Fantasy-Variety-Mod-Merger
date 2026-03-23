@@ -122,5 +122,3 @@ The Aeramore Expansion 7.03
 Of MultiBeasts and Renassance .91A
 Tiara's Adds
 Enhanced Trade 1.0
-
-Enhanced Trade 1.0
