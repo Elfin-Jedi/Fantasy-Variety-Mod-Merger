@@ -3,11 +3,7 @@ Mass mod merger for Dwarf Fortress
 
 Latest Update:
 
-Updated Advanced Agriculture and Advanced Orchards. Added Advanced Botanical Variety & Advanced Botanical Orchards.
-
-Fixed Dyers Studio.
-
-Replaced bread reactions with Dwarven Cuisine mods.
+Updated Spellcrafts.
 
 Goals (% = in progress, - = not started):
 
